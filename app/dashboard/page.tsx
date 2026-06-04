@@ -1,6 +1,6 @@
 export default function DashboardPage() {
   return (
-   <main className="min-h-screen bg-black text-white p-4 md:p-4 md:p-10">
+  <main className="min-h-screen bg-black text-white p-4 md:p-10">
       {/* Navbar */}
       <div className="flex flex-wrap gap-4 mb-8 border-b border-zinc-800 pb-4">
         <a href="/" className="text-cyan-400">Home</a>
