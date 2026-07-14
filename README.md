@@ -4,9 +4,6 @@
 
 **Team Void | HackIndia 2026**
 
-👨‍💻 **Aashish Pandey**
-👨‍💻 **Meemansa Dwivedi**
-
 ---
 
 ## 🚀 Overview
